@@ -3,7 +3,7 @@
 
  
 
- - Firstly, a python script was developed for hello-world. The script used was:
+ - Firstly, a python script was developed for hello-world via PyCharm. The script used was:
 
     `print("Hello-World!")`
 
